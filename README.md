@@ -9,3 +9,6 @@ Sample website with plenty of files for demos
 ##help needed
 
 call me if any help is needed 
+
+##
+copyright @htg
